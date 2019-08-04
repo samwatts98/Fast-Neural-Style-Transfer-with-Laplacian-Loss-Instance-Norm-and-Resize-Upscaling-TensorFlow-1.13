@@ -9,7 +9,7 @@ The purpose of this project is to provide an interactive user-friendly notebook 
 The main file is a Python Notebook called 'StyleTransferSystem.ipynb'.
 The helper python '.py' files are also needed in the same directory as these notebooks. 
 
-# IMPROVEMENTS IMPLEMENTED #
+# Iprovements Implemented #
 This fast neural style transfer model is based upon the architecture of Johnson et al (2016), available at: (https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
 
 This training system includes several published improvements to the field of neural style transfer:
@@ -18,10 +18,10 @@ This training system includes several published improvements to the field of neu
 - Laplacian loss for preserving smaller details. Li et al, (2017), available at: (https://arxiv.org/pdf/1707.01253.pdf)
 - Resize ppscaling layers over deconvolution layers. Odena et al, (2017), available at: (https://distill.pub/2016/deconv-checkerboard/)
 
-# USING PRE-TRAINED STYLE NETWORKS #
+# Using Pre-Trained Style Networks #
 Contained in the 'MODELS' directory is a number of example pre-trained networks that can be loaded within the Notebook file.
 
-# LICENCE #
+# License #
 Copyright (c) 2015-2019 Sam Watts. Released under GPLv3. See LICENSE.txt for details.
 
 A special thank you to Anish Athalye for their implementation of the VGG-19 network to be used in this project.
