@@ -9,7 +9,7 @@ The purpose of this project is to provide an interactive user-friendly notebook 
 The main file is a Python Notebook called 'StyleTransferSystem.ipynb'.
 The helper python '.py' files are also needed in the same directory as these notebooks. 
 
-# Iprovements Implemented #
+# Improvements Implemented #
 This fast neural style transfer model is based upon the architecture of Johnson et al (2016), available at: (https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
 
 This training system includes several published improvements to the field of neural style transfer:
