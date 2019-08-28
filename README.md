@@ -9,7 +9,7 @@ Neural Style Transfer is a popular branch of visual machine learning. It is the 
 
 
 ### Style Targets ###
-![starrynight-vangogh](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/starrynight.jpg)
+![starrynight-vangogh](.demoimages/starrynight.jpg)
 ![thegreatwave](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/greatwave.jpg)
 ![pablopicasso](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/themuse.jpg)
 
