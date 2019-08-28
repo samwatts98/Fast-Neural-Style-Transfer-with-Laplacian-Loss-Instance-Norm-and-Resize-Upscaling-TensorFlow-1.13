@@ -5,19 +5,19 @@ This codebase was developed for a final year project in my Computer Science & Ar
 Neural Style Transfer is a popular branch of visual machine learning. It is the process of allowing a neural network model to learn the artistic features present within one style target image, and using these features to re-style any other input image whilst still containing the content features present.
 ### Content Target ###
 
-![brighton-beach](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton.jpg)
+![brighton-beach](.demoimages/brighton.jpg)
 
 
 ### Style Targets ###
 ![starrynight-vangogh](.demoimages/starrynight.jpg)
-![thegreatwave](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/greatwave.jpg)
-![pablopicasso](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/themuse.jpg)
+![thegreatwave](.demoimages/greatwave.jpg)
+![pablopicasso](.demoimages/themuse.jpg)
 
 
 ### Results - all 3 extensions in use ###
-![starrynight-vangogh](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-starry.jpg)
-![thegreatwave](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-wave.jpg)
-![pablopicasso](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-muse.jpg)
+![starrynight-vangogh](.demoimages/brighton-starry.jpg)
+![thegreatwave](.demoimages/brighton-wave.jpg)
+![pablopicasso](.demoimages/brighton-muse.jpg)
 
 
 The purpose of this project is to provide an interactive user-friendly notebook for users of all programming competency to engage with. The notebook clearly lays out to the user the steps in using the Notebook. Feel free to fork the repository and implement your own published improvements! 
