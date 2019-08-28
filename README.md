@@ -4,6 +4,8 @@ This codebase was developed for a final year project in my Computer Science & Ar
 
 Neural Style Transfer is a popular branch of visual machine learning. It is the process of allowing a neural network model to learn the artistic features present within one style target image, and using these features to re-style any other input image whilst still containing the content features present.
 ### Content Target ###
+
+![brighton-beach](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton.JPG)
 [[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton.JPG|alt=brighton-beach]]
 
 ### Style Targets ###
