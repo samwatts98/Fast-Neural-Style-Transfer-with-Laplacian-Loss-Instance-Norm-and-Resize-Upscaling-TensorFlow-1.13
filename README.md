@@ -6,18 +6,19 @@ Neural Style Transfer is a popular branch of visual machine learning. It is the 
 ### Content Target ###
 
 ![brighton-beach](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton.JPG)
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton.JPG|alt=brighton-beach]]
+
 
 ### Style Targets ###
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/starrynight.jpg|alt=starrynight-vangogh]]
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/greatwave.jpg|alt=thegreatwave]]
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/themuse.jpg|alt=themuse-pablopicasso]]
+![starrynight-vangogh](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/starrynight.jpg)
+![thegreatwave](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/greatwave.jpg)
+![pablopicasso](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/themuse.jpg)
+
 
 ### Results - all 3 extensions in use ###
+![starrynight-vangogh](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-starry.jpg)
+![thegreatwave](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-wave.jpg)
+![pablopicasso](https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-muse.jpg)
 
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-starry.jpg|alt=starrynight-vangogh]]
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-wave.jpg|alt=thegreatwave]]
-[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-muse.jpg|alt=themuse-pablopicasso]]
 
 The purpose of this project is to provide an interactive user-friendly notebook for users of all programming competency to engage with. The notebook clearly lays out to the user the steps in using the Notebook. Feel free to fork the repository and implement your own published improvements! 
 
