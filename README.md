@@ -3,6 +3,19 @@
 This codebase was developed for a final year project in my Computer Science & Artificial Intelligence degree.
 
 Neural Style Transfer is a popular branch of visual machine learning. It is the process of allowing a neural network model to learn the artistic features present within one style target image, and using these features to re-style any other input image whilst still containing the content features present.
+### Content Target ###
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton.JPG|alt=brighton-beach]]
+
+### Style Targets ###
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/starrynight.jpg|alt=starrynight-vangogh]]
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/greatwave.jpg|alt=thegreatwave]]
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/themuse.jpg|alt=themuse-pablopicasso]]
+
+### Results - all 3 extensions in use ###
+
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-starry.jpg|alt=starrynight-vangogh]]
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-wave.jpg|alt=thegreatwave]]
+[[https://github.com/samwatts98/Fast-Neural-Style-Transfer-with-Laplacian-Loss-TensorFlow-1.13/tree/master/.demoimages/brighton-muse.jpg|alt=themuse-pablopicasso]]
 
 The purpose of this project is to provide an interactive user-friendly notebook for users of all programming competency to engage with. The notebook clearly lays out to the user the steps in using the Notebook. Feel free to fork the repository and implement your own published improvements! 
 
