@@ -10,7 +10,7 @@ Neural Style Transfer is a popular branch of visual machine learning. It is the 
 
 ### Style Targets ###
 ![starrynight-vangogh](.demoimages/starrynight.jpg)
-![thegreatwave](.demoimages/greatwave.jpg)
+![thegreatwave](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/350px-Tsunami_by_hokusai_19th_century.jpg) 'The Great Wave off Kanagawa - Hokusai'
 ![pablopicasso](.demoimages/themuse.jpg)
 
 
