@@ -11,7 +11,7 @@ Neural Style Transfer is a popular branch of visual machine learning. It is the 
 ### Style Targets ###
 ![starrynight-vangogh](https://www.vincentvangogh.org/images/paintings/the-starry-night.jpg |width=250) 'Starry Night - Van Gogh'
 ![thegreatwave](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1920px-Tsunami_by_hokusai_19th_century.jpg |width=250) 'The Great Wave off Kanagawa - Hokusai'
-![pablopicasso](https://www.pablo-ruiz-picasso.net/images/works/1906.jpg |width=250) 'The Muse - Pablo Picasso'
+![pablopicasso](https://www.pablo-ruiz-picasso.net/images/works/1906.jpg |width='250') 'The Muse - Pablo Picasso'
 
 
 ### Results - all 3 extensions in use ###
