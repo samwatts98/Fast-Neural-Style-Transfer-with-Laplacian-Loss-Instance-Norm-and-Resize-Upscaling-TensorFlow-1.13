@@ -5,19 +5,19 @@ This codebase was developed for a final year project in my Computer Science & Ar
 Neural Style Transfer is a popular branch of visual machine learning. It is the process of allowing a neural network model to learn the artistic features present within one style target image, and using these features to re-style any other input image whilst still containing the content features present.
 ### Content Target ###
 
-![brighton-beach](.demoimages/brighton.JPG)
+![brighton-beach](.demoimages/brighton.JPG =250x)
 
 
 ### Style Targets ###
-![starrynight-vangogh](https://www.vincentvangogh.org/images/paintings/the-starry-night.jpg) 'Starry Night - Van Gogh'
-![thegreatwave](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1920px-Tsunami_by_hokusai_19th_century.jpg) 'The Great Wave off Kanagawa - Hokusai'
-![pablopicasso](https://www.pablo-ruiz-picasso.net/images/works/1906.jpg) 'The Muse - Pablo Picasso'
+![starrynight-vangogh](https://www.vincentvangogh.org/images/paintings/the-starry-night.jpg =250x) 'Starry Night - Van Gogh'
+![thegreatwave](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1920px-Tsunami_by_hokusai_19th_century.jpg =250x) 'The Great Wave off Kanagawa - Hokusai'
+![pablopicasso](https://www.pablo-ruiz-picasso.net/images/works/1906.jpg =250x) 'The Muse - Pablo Picasso'
 
 
 ### Results - all 3 extensions in use ###
-![starrynight-vangogh](.demoimages/brighton-starry.JPG)
-![thegreatwave](.demoimages/brighton-wave.JPG)
-![pablopicasso](.demoimages/brighton-muse.jpg)
+![starrynight-vangogh](.demoimages/brighton-starry.JPG =250x)
+![thegreatwave](.demoimages/brighton-wave.JPG =250x)
+![pablopicasso](.demoimages/brighton-muse.jpg =250x)
 
 
 The purpose of this project is to provide an interactive user-friendly notebook for users of all programming competency to engage with. The notebook clearly lays out to the user the steps in using the Notebook. Feel free to fork the repository and implement your own published improvements! 
